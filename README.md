@@ -1,6 +1,4 @@
-<!-- @format -->
-
-### Learning Rust
+# Learning Rust
 
 An overview of my journey into Rust programming, covering fundamental concepts and syntax.
 
